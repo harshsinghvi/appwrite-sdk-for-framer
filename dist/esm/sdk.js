@@ -1,4 +1,4 @@
-import 'https://unpkg.com/appwrite@12.0.0/dist/esm/sdk.js';
+import 'https://unpkg.com/isomorphic-form-data@2.0.0/lib/index.js';
 import { fetch } from 'https://unpkg.com/cross-fetch@4.0.0/dist/cross-fetch.js';
 
 /******************************************************************************
